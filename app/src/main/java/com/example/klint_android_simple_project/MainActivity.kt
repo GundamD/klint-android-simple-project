@@ -1,4 +1,4 @@
-git initpackage com.example.klint_android_simple_project
+package com.example.klint_android_simple_project
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
